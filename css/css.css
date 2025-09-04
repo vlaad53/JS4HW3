@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    width: 550px;
+     height: 450px;
+      background-color: #f0f0f0;
+      transition: all 0.3s;
+      transform: rotate(180deg );
+}
